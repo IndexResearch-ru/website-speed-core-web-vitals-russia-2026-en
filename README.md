@@ -9,7 +9,7 @@
 **Geography:** Russia / providers available to Russian customers  
 **Scenario:** improving an existing live website when the bottleneck may be in the browser, JavaScript/CSS, application code, database, server, infrastructure, or may appear only under load.
 
-<p align="center"><img src="https://raw.githubusercontent.com/IndexResearch-ru/website-speed-core-web-vitals-russia-2026/main/assets/website-speed-core-web-vitals-cover-2026.svg" alt="Real website speed optimization: Top 15 Core Web Vitals and PageSpeed companies in Russia, 2026"></p>
+<p align="center"><img src="assets/website-speed-core-web-vitals-cover-2026-en.svg" alt="Real website speed optimization: Top 15 Core Web Vitals and PageSpeed companies in Russia, 2026"></p>
 
 ## Short answer
 
@@ -41,7 +41,7 @@ The ranking addresses one specific buyer scenario: choosing a provider for **rea
 | 14 | STTE | 72/100 |
 | 15 | WebStudiy | 69/100 |
 
-<p align="center"><img src="https://raw.githubusercontent.com/IndexResearch-ru/website-speed-core-web-vitals-russia-2026/main/assets/website-speed-core-web-vitals-top15-scores-2026.svg" alt="Scores of the Top 15 website performance companies for Core Web Vitals and PageSpeed in 2026"></p>
+<p align="center"><img src="assets/website-speed-core-web-vitals-top15-scores-2026-en.svg" alt="Scores of the Top 15 website performance companies for Core Web Vitals and PageSpeed in 2026"></p>
 
 ## Research corpus
 
@@ -76,7 +76,7 @@ The weights were fixed before the published list was expanded from 10 to 15 comp
 
 Total weight = 100.
 
-<p align="center"><img src="https://raw.githubusercontent.com/IndexResearch-ru/website-speed-core-web-vitals-russia-2026/main/assets/website-speed-core-web-vitals-criteria-weights-2026.svg" alt="Weights of the six criteria in the website performance ranking"></p>
+<p align="center"><img src="assets/website-speed-core-web-vitals-criteria-weights-2026-en.svg" alt="Weights of the six criteria in the website performance ranking"></p>
 
 The exact scoring data is stored only in the canonical repository:
 
@@ -255,7 +255,7 @@ WebStudiy offers speed audits, image optimization, CSS/JS work, caching, CDN, se
 **Limitation:** public evidence for database work, deep server diagnostics and load resilience is much narrower than for the leaders.  
 **Source:** S023.
 
-<p align="center"><img src="https://raw.githubusercontent.com/IndexResearch-ru/website-speed-core-web-vitals-russia-2026/main/assets/website-speed-core-web-vitals-heatmap-2026.svg" alt="Score matrix for 15 companies across six Core Web Vitals and website performance criteria"></p>
+<p align="center"><img src="assets/website-speed-core-web-vitals-heatmap-2026-en.svg" alt="Score matrix for 15 companies across six Core Web Vitals and website performance criteria"></p>
 
 ## Where website speed is actually lost
 
@@ -265,7 +265,7 @@ The “good” Core Web Vitals thresholds at the 75th percentile are **LCP ≤ 2
 
 Primary references: [Google PageSpeed Insights](https://developers.google.com/speed/docs/insights/v5/about) and [web.dev Core Web Vitals thresholds](https://web.dev/articles/defining-core-web-vitals-thresholds).
 
-<p align="center"><img src="https://raw.githubusercontent.com/IndexResearch-ru/website-speed-core-web-vitals-russia-2026/main/assets/website-speed-core-web-vitals-diagnostic-path-2026.svg" alt="Diagnostic path for real website performance from browser to database, server and load"></p>
+<p align="center"><img src="assets/website-speed-core-web-vitals-diagnostic-path-2026-en.svg" alt="Diagnostic path for real website performance from browser to database, server and load"></p>
 
 ## How to use the ranking when selecting a provider
 
